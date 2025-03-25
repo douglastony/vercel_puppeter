@@ -12,6 +12,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2",
-    "puppeteer": "^24.4.0"
+    "puppeteer": "^24.4.0",
+    "puppeteer-core": "^22.11.0",
+    "chrome-aws-lambda": "^10.1.0"  
   }
 }
